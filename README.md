@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 # 💫 About Me:
-👋 I’m Paridhi Arya <br>👀 I’m interested in Data science and visualization.<br>🌱 I’m currently pursuing a BTech degree from IIIT Sri City.<br> 🥇 National Level Hackathon Winner <br>
+👋 I’m Paridhi Arya <br>👀 I’m interested in Machine Learning, LLMs, Data science and visualization.<br>🌱 I’m currently pursuing a BTech degree from IIIT Sri City.<br> 🥇 National Level Hackathon Winner <br>
 
 
 ## 🌐 Socials:
